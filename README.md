@@ -35,8 +35,8 @@ npm run dev
 Notes:
 
 1. The server contains two auto generated files for logging purposes:
-   - `uncaughtExceptions.log` - contains any raised exceptions
-   - `logfile.log` -
+   - `uncaughtExceptions.log` (contains any raised exceptions)
+   - `logfile.log` 
 
 ## Guidelines for writing a commit message when committing changes to any of the git submodules
 
