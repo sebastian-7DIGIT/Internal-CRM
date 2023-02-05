@@ -6,10 +6,14 @@ Main repository for the Internal CRM tool
 
 This is the budle for the Ineternal CRM task containing the client and server.
 
-To clone the project:
+
 
 ```
-git clone
+To start the development of the task you will need to first fork the current repository.
+
+Then clone the forked repo on your local machine using the following command:
+
+git clone <git_repo>
 ```
 
 ## Run the client
